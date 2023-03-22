@@ -230,4 +230,4 @@ $ git mv [archivo-original] [archivo-renombrado]
 
 ---
 
-📌 Mis Redes: 🔵[Facebook](https://www.facebook.com/emarcosgv) | 💼[LinkedIn](https://www.linkedin.com/in/emmanuel-villalba/) | 💻[Github](https://github.com/emarcosgv)
+📌 Mis Redes: 🔵[Facebook](https://www.facebook.com/emarcosgv) | 💼[LinkedIn](https://www.linkedin.com/in/emarcosgv/) | 💻[Github](https://github.com/emarcosgv)

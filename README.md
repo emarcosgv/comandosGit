@@ -1,4 +1,3 @@
-# comandosGit
 # Comandos Esenciales de GIT (2023) 🚀
 
 ![Texto alternativo](https://blog.knoldus.com/wp-content/uploads/2020/05/cover-first-steps-git.png)
